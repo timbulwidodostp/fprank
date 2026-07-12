@@ -1,0 +1,4 @@
+D 'fprank': Two-Sample Fligner-Policello Robust Rank Order Test Use fprank With STATA 19
+D
+F fprank.ado
+F fprank.hlp
